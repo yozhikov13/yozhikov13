@@ -3,11 +3,15 @@
 
 Получил высшее образование по профилю "программная инженерия" в 2019 году. Занимаюсь разработкой и программированием с 2017 года. Начинал, как и большинство с Web-разработки, сейчас же имею опыт работы с различными языками программирования и стеком технологий.
 
+---
+
 ### 💻 Технологии 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
+
+---
 
 ### 💻 Есть опыт работы                     
 <p align="left">
